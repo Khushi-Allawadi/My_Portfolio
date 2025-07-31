@@ -1,44 +1,42 @@
-# vCard - Personal portfolio
+# 🌸 Khushi Allawadi — Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to the source code of my personal portfolio website!  
+Built with love, a pink & matcha aesthetic, and a touch of AI flair.  
+This portfolio highlights my work, skills, creativity, and how I think.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🎨 Live Preview
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+🔗 [Visit My Portfolio](https://khushis-portfolio.netlify.app/)
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 💡 Tech Stack
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **Frontend**: HTML, CSS (custom themes), JavaScript
+- **Design**: Canva, Figma (for mockups), SVG customization
+- **Icons & Visuals**: [SVG Repo](https://www.svgrepo.com/), Hand-edited vector graphics
+- **Deployed on**: Netlify
 
-## Installing vCard
+---
 
-To install **vCard**, follow these steps:
+## 🔧 Features
 
-Linux and macOS:
+- Responsive and accessible layout  
+- Matcha & pink-themed UI for a modern, soft look  
+- AI-inspired elements and micro-animations  
+- Custom SVG icons and hand-coded CSS themes  
+- Clean project showcase with hover effects  
+- Contact section with a working email form *(optional)*
+
+---
+
+## 🚀 Getting Started
+
+To run this locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+git clone https://github.com/yourusername/your-portfolio.git
+cd your-portfolio
+open index.html
