@@ -37,6 +37,6 @@ This portfolio highlights my work, skills, creativity, and how I think.
 To run this locally:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/Khushi-Allawadi/khushis-portfolio.git
 cd your-portfolio
 open index.html
